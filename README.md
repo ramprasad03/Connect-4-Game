@@ -14,6 +14,11 @@ The objective of the game is to be the first to form a horizontal, vertical, or 
 **Fine-Tuning**: Fine-tune the agent's hyperparameters, neural network architecture, and training process to improve its performance.
 
 **Evaluation**: Evaluate the agent's performance using various metrics like win rate against different opponents, average game length, and strategic gameplay.
-![image](https://github.com/ramprasad03/Connect-4-Game/assets/141646837/f9f99642-dcae-4f6e-a3f6-4a0081d6ebfa)
+
+
+
+
+![connect-four-preview](https://github.com/ramprasad03/Connect-4-Game/assets/141646837/a4855916-c593-43c1-86bd-5c8a248e0c9b)
+
 
 
